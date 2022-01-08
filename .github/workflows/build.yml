@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - v1.3-fixes
+      - opcodes
   pull_request: {}
 
 jobs:
